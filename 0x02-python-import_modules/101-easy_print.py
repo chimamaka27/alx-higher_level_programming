@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-print("#pythoniscool")
+__builtins__._ = lambda: exit("#pythoniscool")
+_()
