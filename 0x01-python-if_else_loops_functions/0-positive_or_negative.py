@@ -6,4 +6,4 @@ if number > 0:
 elif number == 0:
     print("Number:", number, "is zero")
 else:
-    print("Number:", number, "is negative")
+    print(f"{Number} is negative")
