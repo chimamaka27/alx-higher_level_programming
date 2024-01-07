@@ -22,6 +22,7 @@ that value is equivalent to using the ``+`` operator.
     -1
 
 The function also works with floating-point values.
+
 ::
 
     >>> add_integer(2.0, 3.0)
